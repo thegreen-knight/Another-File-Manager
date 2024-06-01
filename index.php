@@ -197,6 +197,7 @@ if (isset($_POST['createFolder']) && $_POST['createFolder'] === 'Create') {
     </ul>
 
     <footer>
+        <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="gr33nknight" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
         <h4>Created by The Green Knight</h4>
         <a href="https://greenknightdigital.com" target="_blank">My Website</a>
         <a href="https://github.com/thegreen-knight" target="_blank">My Github</a>
